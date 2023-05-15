@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @Fortune
-- 👀 I'm a Computer Science Student and A C# developer
-- 🌱 I’m currently learning about Data Structures and Algorithms
-- ✈ Come along with me on my  endless journey of programming
-- 💞️ I’m looking to collaborate on .NET and Other Frameworks 
+Hi, Fortune
+I'm a  first year Computer Science Student and a C# developer. I'm always looking for new challenges and opportunities to learn and grow. I'm also interested in collaborating with others on .NET and other frameworks.
 
+Here are some of my skills and interests:
+Programming
+Data Structures and Algorithms
+Software Development
+Object Oriented Programming
 
-<!---
-Fortu-ne/Fortu-ne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm always looking for new ways to improve my skills and knowledge. If you have any suggestions or feedback, please feel free to reach out to me.
+
+I'm also interested in collaborating with others on projects. If you have any ideas, please let me know. I'm always looking for new challenges and opportunities to learn and grow.
+
+Thanks for taking the time to learn more about me. I hope to hear from you soon!
